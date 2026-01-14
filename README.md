@@ -4,10 +4,10 @@ I'm Joshua and this is my playground.
 
 ## Current Toys
 
-- 2D Bomberman clone: https://zz85.github.io/bummerman/bomber_hd.html
-- First person Bomberman: https://zz85.github.io/bummerman/vibes/fpv
-- Multiplayer first person Bomberman: https://zz85.github.io/bummerman/vibes/fpv-mp
-- In-browser MIDI and Soundfont player + Piano visualizer: https://zz85.github.io/midiviz/midiviz_piano.html
+- [2D Bomberman clone](https://zz85.github.io/bummerman/bomber_hd.html)
+- [First person Bomberman](https://zz85.github.io/bummerman/vibes/fpv)
+- [Multiplayer first person Bomberman](https://zz85.github.io/bummerman/vibes/fpv-mp)
+- [In-browser MIDI and Soundfont player + Piano visualizer](https://zz85.github.io/midiviz/midiviz_piano.html)
 
 ## Connect
 
