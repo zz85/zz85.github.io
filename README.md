@@ -4,11 +4,10 @@ I'm Joshua and this is my playground.
 
 ## Current Toys
 
-2d bomber man clone: https://zz85.github.io/bummerman/bomber_hd.html
-first person bomberman: https://zz85.github.io/bummerman/vibes/fpv
-multi-player first person bomberman: https://zz85.github.io/bummerman/vibes/fpv-mp
-
-in-browser Midi and Soundfont player + Piano visualizer https://zz85.github.io/midiviz/midiviz_piano.html
+- 2D Bomberman clone: https://zz85.github.io/bummerman/bomber_hd.html
+- First person Bomberman: https://zz85.github.io/bummerman/vibes/fpv
+- Multiplayer first person Bomberman: https://zz85.github.io/bummerman/vibes/fpv-mp
+- In-browser MIDI and Soundfont player + Piano visualizer: https://zz85.github.io/midiviz/midiviz_piano.html
 
 ## Connect
 
@@ -16,9 +15,9 @@ in-browser Midi and Soundfont player + Piano visualizer https://zz85.github.io/m
 - X/Twitter: [@blurspline](https://twitter.com/blurspline)
 - Location: Seattle
 
-## Github Projects
+## GitHub Projects
 
-### (Old) Three.js Ecosystem
+### Three.js Ecosystem
 - **[three.js](https://github.com/mrdoob/three.js)** - Core contributor to the popular JavaScript 3D library
 - **[ThreeLabs](https://github.com/zz85/ThreeLabs)** - Experimental features and prototypes for Three.js
 - **[threejs-term](https://github.com/zz85/threejs-term)** - Terminal-based renderer for Three.js
@@ -26,7 +25,6 @@ in-browser Midi and Soundfont player + Piano visualizer https://zz85.github.io/m
 - **[three-raytracing-renderer](https://github.com/zz85/three-raytracing-renderer)** - Pure JavaScript raytracing renderer (no canvas/WebGL)
 - **[crayon.js](https://github.com/zz85/crayon.js)** - Node-based shader library for Three.js
 - **[mrdoobapproves](https://github.com/zz85/mrdoobapproves)** - Fun approval bot
-
 
 ### Visual Experiments
 - **[FractalLab](https://github.com/zz85/FractalLab)** - Interactive WebGL fractal renderer
@@ -49,28 +47,22 @@ in-browser Midi and Soundfont player + Piano visualizer https://zz85.github.io/m
 ## 📊 Visualization & Data Tools
 
 ### System Monitoring
-- **[space-radar](https://github.com/zz85/space-radar)** - Disk and memory visualization with Electr
-on & d3.js (1.4k+ stars)
+- **[space-radar](https://github.com/zz85/space-radar)** - Disk and memory visualization with Electron & d3.js (1.4k+ stars)
 - **[space-rust](https://github.com/zz85/space-rust)** - Rust implementation of space scanning
 
 ### Development Tools
-- **[kafka-streams-viz](https://github.com/zz85/kafka-streams-viz)** - Kafka Streams topology visual
-ization (422 stars)
-- **[graph-github-issues](https://github.com/zz85/graph-github-issues)** - GitHub issues/PRs timelin
-e visualization
+- **[kafka-streams-viz](https://github.com/zz85/kafka-streams-viz)** - Kafka Streams topology visualization (422 stars)
+- **[graph-github-issues](https://github.com/zz85/graph-github-issues)** - GitHub issues/PRs timeline visualization
 - **[ascii-graphs.js](https://github.com/zz85/ascii-graphs.js)** - ASCII-based data visualizations
 
 ## 🎵 Music & Audio
 
 ### Music Notation & Playback
-- **[nwc-viewer](https://github.com/zz85/nwc-viewer)** - Noteworthy Composer music notation viewer &
- player
+- **[nwc-viewer](https://github.com/zz85/nwc-viewer)** - Noteworthy Composer music notation viewer & player
 - **[nwc2ly.py](https://github.com/zz85/nwc2ly.py)** - Noteworthy Composer to Lilypond converter
-- **[wild-web-midi](https://github.com/zz85/wild-web-midi)** - High-quality MIDI playback in browser
- (Emscripten port)
+- **[wild-web-midi](https://github.com/zz85/wild-web-midi)** - High-quality MIDI playback in browser (Emscripten port)
 - **[midiviz](https://github.com/zz85/midiviz)** - MIDI visualizations
-- **[phonopaper.js](https://github.com/zz85/phonopaper.js)** - JavaScript implementation of PhonoPap
-er
+- **[phonopaper.js](https://github.com/zz85/phonopaper.js)** - JavaScript implementation of PhonoPaper
 
 ## 🤖 AI & Automation
 
@@ -79,13 +71,10 @@ er
 ## 🛠️ Developer Utilities
 
 ### Animation & Timing
-- **[timeliner](https://github.com/zz85/timeliner)** - JavaScript timeline library for animation (73
-1 stars)
+- **[timeliner](https://github.com/zz85/timeliner)** - JavaScript timeline library for animation (731 stars)
 
 ### Browser Tools
-- **[zz85-bookmarklets](https://github.com/zz85/zz85-bookmarklets)** - Collection of useful bookmark
-lets
-- **[contact.js](https://github.com/zz85/contact.js)** - Multi-touch and sensor beaming via WebSocke
-ts
+- **[zz85-bookmarklets](https://github.com/zz85/zz85-bookmarklets)** - Collection of useful bookmarklets
+- **[contact.js](https://github.com/zz85/contact.js)** - Multi-touch and sensor beaming via WebSockets
 - **[keyboard.js](https://github.com/zz85/keyboard.js)** - Virtual keyboard experiments
 
